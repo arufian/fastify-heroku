@@ -1,0 +1,7 @@
+{
+  "name": "Fastify Heroku",
+  "description": "A template for using Fastify inside Heroku",
+  "repository": "https://github.com/arufian/fastify-heroku",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "fastify"]
+}
