@@ -2,6 +2,6 @@
   "name": "Fastify Heroku",
   "description": "A template for using Fastify inside Heroku",
   "repository": "https://github.com/arufian/fastify-heroku",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-01.png",
   "keywords": ["node", "fastify"]
 }
